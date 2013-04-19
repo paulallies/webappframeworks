@@ -1,21 +1,21 @@
 #Web Application Frameworks
 
-Here we will be looking at a couple of modern web frameworks.  We are gonna look at development environment installations for
+Here we will be looking at a couple of <a href="http://en.wikipedia.org/wiki/Web_application_framework" target="_blank">web application frameworks</a> that support some modern <a href="http://en.wikipedia.org/wiki/Dynamic_programming_language" target="_blank">dynamic languages</a>.  We will be evaluating the following frameworks:
 
-1. Linux (Ubuntu)
-* Windows (7/8)
-* Mac (Lion/Mountain Lion)
+1. Python and Django
+* Groovy and Grails
+* Node and Express
+* Ruby on Rails
 
-We need to look at the following features when looking at Web Application Frameworks:
+For each of these frameworks we will discuss the following:
 
-1. Underlying Language and learning curve involved
+* Underlying Language and learning curve involved
 * Dependencies
 * IDEs
 * Command Line Interpreter
 * Closures
 * DataBase Access / ORM
 * REST Client interfaces
-* Scaffolding Capabilities
 
 
 ##Python and Django
