@@ -1,6 +1,6 @@
 #Web Application Frameworks
 
-Here we will be looking at a couple of <a href="http://en.wikipedia.org/wiki/Web_application_framework" target="_blank">web application frameworks</a> that support some modern <a href="http://en.wikipedia.org/wiki/Dynamic_programming_language" target="_blank">dynamic languages</a>.  We will be evaluating the following frameworks:
+Here we will be looking at a couple of <a href="http://en.wikipedia.org/wiki/Web_application_framework" target="_blank">web application frameworks</a> that support some modern <a href="http://en.wikipedia.org/wiki/Dynamic_programming_language" target="_blank">dynamic languages</a>.  Obviously the frameworks need to follow the MVC <a href="http://en.wikipedia.org/wiki/Architectural_pattern_(computer_science)" target="_blank">architectural pattern</a> to separate the <a href="http://en.wikipedia.org/wiki/Data_model" target="_blank">data model</a> with <a href="http://en.wikipedia.org/wiki/Business_rules" target="_blank">business rules</a> from the user interface.  We will be evaluating the following frameworks:
 
 1. Python and Django
 * Groovy and Grails
@@ -9,7 +9,7 @@ Here we will be looking at a couple of <a href="http://en.wikipedia.org/wiki/Web
 
 For each of these frameworks we will discuss the following:
 
-* Underlying Language and learning curve involved
+* Installation on all platforms (windows, linix, mac)
 * Dependencies
 * IDEs
 * Command Line Interpreter
