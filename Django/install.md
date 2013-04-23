@@ -125,3 +125,4 @@ python manage.py runserver
 ```
 
 This launches the server locally, on port 8000, accessible only to connections from your own computer. Now that it’s running, visit http://127.0.0.1:8000/ with your Web browser. You’ll see a “Welcome to Django” page shaded in a pleasant pastel blue. It worked!
+
